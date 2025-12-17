@@ -1,0 +1,17 @@
+#Z{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: oblique;
+    font-variant: small-caps;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: underline;
+    text-align:left;
+    text-indent: 6cm;
+    text-transform: capitalize;
+}
+#Z:hover{
+    color: rgb(208, 127, 255);
+}
+a{
+    text-decoration: none;
+}
